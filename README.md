@@ -1,3 +1,5 @@
+# NOTE: only difference from original repo is MYSQL Connector version 1.0.0.Beta3
+
 # fast-data-dev / kafka-lenses-dev (Lenses Box) #
 lensesio/fast-data-dev
 [![docker](https://img.shields.io/docker/pulls/landoop/fast-data-dev.svg?style=flat)](https://hub.docker.com/r/landoop/fast-data-dev/)
